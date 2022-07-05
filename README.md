@@ -1,5 +1,4 @@
-# patika-project
-
+# https://app.patika.dev/berkete
 
 Proje1<br/>
 [22,27,16,2,18,6] -> Insertion Sort
